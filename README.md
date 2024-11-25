@@ -15,9 +15,9 @@ A **Women Safety 🚨** Application developed using Flutter, designed to ensure 
   
 ## Tech Stack 💻
 
-**Frontend**: Flutter (Dart)
-**Backend**: Firebase (Authentication, Firestore, and Cloud Functions)
-**APIs**: Google Maps API (for location sharing)
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase (Authentication, Firestore, and Cloud Functions)
+- **APIs**: Google Maps API (for location sharing)
 
 ## Screenshots 📱
 
